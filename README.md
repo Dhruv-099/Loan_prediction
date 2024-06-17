@@ -1,6 +1,6 @@
 # Loan Status Prediction
 
-This project aims to develop a machine learning model to predict the loan status (approved or rejected) based on various features such as applicant income, credit history, loan amount, and other relevant factors.
+This project aims to develop a machine learning model to predict the loan status (approved or rejected) based on various features such as applicant income, credit history, loan amount, and other relevant factors. Additionally, a FastAPI application has been developed to serve the trained model for making predictions.
 
 ## Dataset
 
