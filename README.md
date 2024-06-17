@@ -25,5 +25,5 @@ To run this project, you'll need the following dependencies:
 - Seaborn
 - FastAPI
 - Joblib (for model serialization)
-Model Performance
+## Model Performance
 The notebook (loan - Kaggle.ipynb) includes code for training and evaluating multiple machine learning models, such as Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), AdaBoost, and Random Forest Classifier. The performance of each model is reported using accuracy as the evaluation metric.
